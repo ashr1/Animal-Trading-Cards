@@ -1,0 +1,37 @@
+
+.fullCard{
+  border: 1px solid;
+  display:inline-block;
+  background-color: black;
+  color: white;
+}
+
+.information{
+  border: 1px solid;
+  background-color: white;
+  color: black;
+}
+
+.cardContent{
+  margin: 3px;
+  padding: 5px;
+  width:300px;
+}
+
+span{
+  font-weight: bold;
+  font-style: normal;
+}
+
+.italicText{
+  font-style: italic;
+}
+
+.animalName{
+  font-size: xx-large;
+}
+
+.factList{
+  list-style: none;
+  padding-left: 0px;
+}
